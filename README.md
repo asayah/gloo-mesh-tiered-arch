@@ -4,6 +4,7 @@ Example of a Gloo Mesh deployment, where multiple Istio components are operated 
 
 # Architecture 
 
+ ![Arch](https://raw.githubusercontent.com/asayah/gloo-mesh-tiered-arch/main/arch.png)
 
 
 # End Goal
